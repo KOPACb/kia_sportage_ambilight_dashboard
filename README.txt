@@ -1,0 +1,1 @@
+This progect about ambilight speedometer for kia sportage 1 ( 1996-2002 )
